@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="55dp"
+        android:text="숙소등록"
+        android:id="@+id/reg_hotel"
+        android:layout_centerHorizontal="true"
+        android:textAllCaps="false"
+        android:layout_marginTop="400dp"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="55dp"
+        android:text="도어락비밀번호설정"
+        android:textSize="12dp"
+        android:id="@+id/PWD"
+        android:layout_centerHorizontal="true"
+        android:textAllCaps="false"
+        android:layout_below="@+id/reg_hotel"/>
+
+
+
+
+</RelativeLayout>
