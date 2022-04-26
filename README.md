@@ -11,7 +11,8 @@
 따라서 호텔방을 예약할 때 해당 방에 대한 QR코드를 지급 받음으로써 방을 사용하는 이용자들간에는 QR코드를 공유할 수 있어 누구나
 방문을 열 수 있습니다. 물론 QR코드가 타인에게 노출될 시 QR코드를 변경할 수 있습니다
 </br></br>
-<img src="https://user-images.githubusercontent.com/101568892/165222069-27193252-4e4a-4203-b46f-6fd77667d3ce.png">
+
+<img src="https://user-images.githubusercontent.com/101568892/165234536-031e419b-4d31-41ed-b8e3-fcc578b1a853.png">
 
 ## 1. Goals
 - 방을 등록하고 예약할 수 있는 어플 구현
@@ -27,7 +28,7 @@
 - QR코드 인식 후 상황에 따른 LCD센서와 부저센서 동작 및 도어락 동작
 
 ## 3. Flow Chart
-<img src="https://user-images.githubusercontent.com/101568892/165222378-cf105955-5c8f-4a7d-80b4-7e9dddd02820.JPG">
+<img src="https://user-images.githubusercontent.com/101568892/165234442-4230da4d-7d32-4da3-8d69-c84811d84d81.JPG">
 
 ## 4. Development Environment
 <img src="https://user-images.githubusercontent.com/101568892/165222427-11fba32e-df2c-438c-ae3b-491926a18022.png" width="500">
