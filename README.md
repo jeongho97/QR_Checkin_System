@@ -31,10 +31,10 @@
 <img src="https://user-images.githubusercontent.com/101568892/165234442-4230da4d-7d32-4da3-8d69-c84811d84d81.JPG">
 
 ## 4. Development Environment
-<img src="https://user-images.githubusercontent.com/101568892/165222427-11fba32e-df2c-438c-ae3b-491926a18022.png" width="500">
+<img src="https://user-images.githubusercontent.com/101568892/165239989-53b40f66-8186-4b74-8194-50d8ea83c738.png">
 
 ## 5. UI
 <img src="https://user-images.githubusercontent.com/101568892/165222757-b523f957-1cfa-4533-8605-2ee900af505b.png" width="250"> <img src="https://user-images.githubusercontent.com/101568892/165222819-9db36907-5ff4-4b87-9942-656db9e340b3.png" width="260">  
 <img src="https://user-images.githubusercontent.com/101568892/165222914-af3003e6-7f8f-4f30-930e-97f242ae6b68.png" width="250"><img src="https://user-images.githubusercontent.com/101568892/165222978-0356eee1-40c5-45c1-81d9-068e56d6b109.png" width="250">   
 <img src="https://user-images.githubusercontent.com/101568892/165223217-2ea5924f-8201-451b-a0c5-88210ea573f7.png" width="250">   
-<img src="https://user-images.githubusercontent.com/101568892/165235184-5ef55ea5-864f-4d46-afed-b947fdda3ab1.png"><img src="https://user-images.githubusercontent.com/101568892/165235309-63d364f2-8ff9-478f-af78-07d8fa176ded.png">
+<img src="https://user-images.githubusercontent.com/101568892/165235184-5ef55ea5-864f-4d46-afed-b947fdda3ab1.png"><img src="https://user-images.githubusercontent.com/101568892/165235309-63d364f2-8ff9-478f-af78-07d8fa176ded.png" width="130">
