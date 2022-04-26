@@ -1,4 +1,4 @@
-# Project: QR_Check IN System
+# Project: QR_Check In System
 * 호텔의 대면 체크인 방식을 어플과 QR코드를 활용하여 비대면으로 전환
 * 대학 졸업논문
 * 2020.10 ~ 2021.06
